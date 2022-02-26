@@ -1,0 +1,16 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "trabajano con node js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Alan Rosas Garcia",
+  "license": "ISC"
+}
